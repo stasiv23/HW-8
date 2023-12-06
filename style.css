@@ -1,0 +1,24 @@
+h3:first-child{
+    color: pink;
+}
+#greycol{
+    color:grey;
+}
+p:nth-child(1){
+    color: red;
+}
+p:nth-child(7){
+    color: green;
+}
+.yellow{
+    color: yellow;
+}
+.list-item:nth-child(2n + 1){
+    background-color:  #424949 ;
+}
+.list-item:nth-child(2n){
+    background-color:#616a6b;
+}
+h4{
+    color: #a569bd  ;
+}
